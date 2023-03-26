@@ -1,6 +1,6 @@
 package com.fc.final7.domain.recommend.entity;
 
-import com.fc.final7.domain.member.entity.Gender;
+import com.fc.final7.domain.member.enums.Gender;
 import com.fc.final7.global.entity.Auditing;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
