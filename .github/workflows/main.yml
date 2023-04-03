@@ -1,8 +1,8 @@
-name: final7-cicd
+name: final7-develop-cicd
 
 on:
   push:
-    branches: [main]
+    branches: [develop]
     
 permissions:
   contents: read
